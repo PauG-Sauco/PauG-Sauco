@@ -13,6 +13,4 @@ Prox mox es un sistema operativo basado en linux el cual nosotros estamos hacien
 
 Nosotros estamos haciendo un servidor en el cual en cada ordenador instalamos proxmox y asignamos las ips para cada ordenador y poniendo la red en cada ordenador
 
-<p align="center">
-  <img width="460" height="300" src= "![Proxmox](https://github.com/PauG-Sauco/PauG-Sauco/assets/158279215/5afc5bf0-d082-4520-9f64-0ce370d87e54)">
-</p>
+![Proxmox](https://github.com/PauG-Sauco/PauG-Sauco/assets/158279215/5afc5bf0-d082-4520-9f64-0ce370d87e54)"
